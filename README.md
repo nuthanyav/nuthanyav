@@ -2,7 +2,7 @@
 <h3 align="center">Java & Full Stack Developer | ECE Graduate | Open to Work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Code.+Build.+Deploy.;Java+%7C+Full+Stack+%7C+Open+to+Work;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Code.+Build.+Deploy.;Java+%7C+Full+Stack+%7C+Open+to+Work;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
